@@ -10,33 +10,19 @@ I am a Computer Science student passionate about researching and writing about c
 Explores AI privacy risks, IoT, data sharing, encryption, and global privacy laws.
 
 📖 Read on Medium:
-https://medium.com/your-link
+https://medium.com/@lyebayasmin/privacy-in-ppit-48e4d7c780e4
 
 ---
 
-### ⚖️ Ethics and Morals in Professional Practices in IT
+### ⚖️ E⁠Morals , ethics and Laws + Ethical theories
 Discusses professional ethics, moral responsibility, cybersecurity laws, and ethical theories in computing.
 
 📖 Read on Medium:
-https://medium.com/your-link
+https://medium.com/p/3de3a05aece6?postPublishedType=initial
 
 ---
-
-### ☎️ Cyber-Enabled Call Center Scams: Ethical and Social Challenges
-Analyzes scam call center operations, cybercrime, financial fraud, and regulatory challenges.
-
-📖 Read on Medium:
-https://medium.com/your-link
-
----
-
-### 👨‍💻 Professional Interview with a Backend Engineer at Maqsood Labs
-Interview discussing ethics, privacy, cybersecurity, open-source software, and professional responsibilities.
-
-📖 Read on Medium:
-https://medium.com/your-link
 
 ## Connect with Me
 
 - LinkedIn: https://linkedin.com/in/yourprofile
-- Medium: https://medium.com/@yourusername
+
